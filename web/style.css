@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+#map {
+  height: 100vh;
+  width: 100%;
+}
+
+#menu {
+  position: absolute;
+  top: 100px;
+  left: 10px;
+  z-index: 1000;
+
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  width: 240px;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+#menu h3 {
+  margin-top: 0;
+}
+
+#menu input,
+#menu select,
+#menu button {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 6px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+#menu button {
+  cursor: pointer;
+  background: #007bff;
+  color: white;
+  border: none;
+}
+
+#menu button:hover {
+  background: #0056b3;
+}

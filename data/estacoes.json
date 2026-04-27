@@ -1,0 +1,3604 @@
+{
+  "data": [
+    {
+      "codigo": "B828",
+      "nome": "ACEGUA",
+      "id": 4300034,
+      "estado": "RS",
+      "lat": "-31,874722",
+      "lon": "-54,119722"
+    },
+    {
+      "codigo": "A657",
+      "nome": "AFONSO CLAUDIO",
+      "id": 3200102,
+      "estado": "ES",
+      "lat": "-20,104167",
+      "lon": "-41,106944"
+    },
+    {
+      "codigo": "A756",
+      "nome": "AGUA CLARA",
+      "id": 5000203,
+      "estado": "MS",
+      "lat": "-20,444444",
+      "lon": "-52,875833"
+    },
+    {
+      "codigo": "A045",
+      "nome": "AGUAS EMENDADAS",
+      "id": 5217609,
+      "estado": "DF",
+      "lat": "-15,596389",
+      "lon": "-47,625833"
+    },
+    {
+      "codigo": "A549",
+      "nome": "AGUAS VERMELHAS",
+      "id": 3101003,
+      "estado": "MG",
+      "lat": "-15,751667",
+      "lon": "-41,457778"
+    },
+    {
+      "codigo": "A534",
+      "nome": "AIMORES",
+      "id": 3101102,
+      "estado": "MG",
+      "lat": "-19,532778",
+      "lon": "-41,090833"
+    },
+    {
+      "codigo": "B843",
+      "nome": "AJURICABA",
+      "id": 4300208,
+      "estado": "RS",
+      "lat": "-28,220833",
+      "lon": "-53,673611"
+    },
+    {
+      "codigo": "A617",
+      "nome": "ALEGRE",
+      "id": 3200201,
+      "estado": "ES",
+      "lat": "-20,750556",
+      "lon": "-41,488889"
+    },
+    {
+      "codigo": "A826",
+      "nome": "ALEGRETE",
+      "id": 4300406,
+      "estado": "RS",
+      "lat": "-29,709167",
+      "lon": "-55,525556"
+    },
+    {
+      "codigo": "B847",
+      "nome": "ALEGRETE (MARONNA)",
+      "id": 4300406,
+      "estado": "RS",
+      "lat": "-29,821389",
+      "lon": "-55,887222"
+    },
+    {
+      "codigo": "A053",
+      "nome": "ALMAS",
+      "id": 1700400,
+      "estado": "TO",
+      "lat": "-11,284167",
+      "lon": "-47,212222"
+    },
+    {
+      "codigo": "A508",
+      "nome": "ALMENARA",
+      "id": 3101706,
+      "estado": "MG",
+      "lat": "-16,166667",
+      "lon": "-40,687778"
+    },
+    {
+      "codigo": "A253",
+      "nome": "ALTAMIRA",
+      "id": 1500602,
+      "estado": "PA",
+      "lat": "-3,270000",
+      "lon": "-52,394722"
+    },
+    {
+      "codigo": "A909",
+      "nome": "ALTO ARAGUAIA",
+      "id": 5100300,
+      "estado": "MT",
+      "lat": "-17,339444",
+      "lon": "-53,224444"
+    },
+    {
+      "codigo": "A024",
+      "nome": "ALTO PARAISO DE GOIAS",
+      "id": 5200605,
+      "estado": "GO",
+      "lat": "-14,133056",
+      "lon": "-47,523333"
+    },
+    {
+      "codigo": "A934",
+      "nome": "ALTO TAQUARI",
+      "id": 5100607,
+      "estado": "MT",
+      "lat": "-17,841111",
+      "lon": "-53,289444"
+    },
+    {
+      "codigo": "A750",
+      "nome": "AMAMBAI",
+      "id": 5000609,
+      "estado": "MS",
+      "lat": "-23,002500",
+      "lon": "-55,329444"
+    },
+    {
+      "codigo": "A772",
+      "nome": "AMAMBAI - NOVO HORIZONTE",
+      "id": 5000609,
+      "estado": "MS",
+      "lat": "-23,121111",
+      "lon": "-54,865556"
+    },
+    {
+      "codigo": "A434",
+      "nome": "AMARGOSA",
+      "id": 2901007,
+      "estado": "BA",
+      "lat": "-13,009444",
+      "lon": "-39,616944"
+    },
+    {
+      "codigo": "A719",
+      "nome": "AQUIDAUANA",
+      "id": 5001102,
+      "estado": "MS",
+      "lat": "-20,475556",
+      "lon": "-55,783889"
+    },
+    {
+      "codigo": "A566",
+      "nome": "ARACUAI",
+      "id": 3103405,
+      "estado": "MG",
+      "lat": "-16,848889",
+      "lon": "-42,035278"
+    },
+    {
+      "codigo": "A013",
+      "nome": "ARAGARCAS",
+      "id": 5201702,
+      "estado": "GO",
+      "lat": "-15,902778",
+      "lon": "-52,245278"
+    },
+    {
+      "codigo": "A054",
+      "nome": "ARAGUACU",
+      "id": 1702000,
+      "estado": "TO",
+      "lat": "-12,592222",
+      "lon": "-49,528611"
+    },
+    {
+      "codigo": "A021",
+      "nome": "ARAGUAINA",
+      "id": 1702109,
+      "estado": "TO",
+      "lat": "-7,103889",
+      "lon": "-48,201111"
+    },
+    {
+      "codigo": "A044",
+      "nome": "ARAGUATINS",
+      "id": 1702208,
+      "estado": "TO",
+      "lat": "-5,643611",
+      "lon": "-48,111944"
+    },
+    {
+      "codigo": "A353",
+      "nome": "ARAPIRACA",
+      "id": 2700300,
+      "estado": "AL",
+      "lat": "-9,804444",
+      "lon": "-36,619167"
+    },
+    {
+      "codigo": "A867",
+      "nome": "ARARANGUA",
+      "id": 4201406,
+      "estado": "SC",
+      "lat": "-28,931353",
+      "lon": "-49,497920"
+    },
+    {
+      "codigo": "A505",
+      "nome": "ARAXA",
+      "id": 3104007,
+      "estado": "MG",
+      "lat": "-19,605833",
+      "lon": "-46,949722"
+    },
+    {
+      "codigo": "A309",
+      "nome": "ARCO VERDE",
+      "id": 2601201,
+      "estado": "PE",
+      "lat": "-8,433611",
+      "lon": "-37,055556"
+    },
+    {
+      "codigo": "A964",
+      "nome": "ARIPUANA",
+      "id": 5101407,
+      "estado": "MT",
+      "lat": "-10,182500",
+      "lon": "-59,459722"
+    },
+    {
+      "codigo": "A736",
+      "nome": "ARIRANHA",
+      "id": 3503703,
+      "estado": "SP",
+      "lat": "-21,133056",
+      "lon": "-48,840556"
+    },
+    {
+      "codigo": "A606",
+      "nome": "ARRAIAL DO CABO",
+      "id": 3300258,
+      "estado": "RJ",
+      "lat": "-22,975278",
+      "lon": "-42,021389"
+    },
+    {
+      "codigo": "A725",
+      "nome": "AVARE",
+      "id": 3504503,
+      "estado": "SP",
+      "lat": "-23,101667",
+      "lon": "-48,941111"
+    },
+    {
+      "codigo": "A220",
+      "nome": "BACABAL",
+      "id": 2101202,
+      "estado": "MA",
+      "lat": "-4,243056",
+      "lon": "-44,795000"
+    },
+    {
+      "codigo": "A827",
+      "nome": "BAGE",
+      "id": 4301602,
+      "estado": "RS",
+      "lat": "-31,347778",
+      "lon": "-54,013333"
+    },
+    {
+      "codigo": "B827",
+      "nome": "BAGE - CENTRO",
+      "id": 4301602,
+      "estado": "RS",
+      "lat": "-31,305556",
+      "lon": "-54,013333"
+    },
+    {
+      "codigo": "A375",
+      "nome": "BAIXA GRANDE DO RIBEIRO",
+      "id": 2201150,
+      "estado": "PI",
+      "lat": "-8,333531",
+      "lon": "-45,094625"
+    },
+    {
+      "codigo": "A565",
+      "nome": "BAMBUI",
+      "id": 3105103,
+      "estado": "MG",
+      "lat": "-20,031111",
+      "lon": "-46,008889"
+    },
+    {
+      "codigo": "A502",
+      "nome": "BARBACENA",
+      "id": 3105608,
+      "estado": "MG",
+      "lat": "-21,228333",
+      "lon": "-43,767778"
+    },
+    {
+      "codigo": "A128",
+      "nome": "BARCELOS",
+      "id": 1300409,
+      "estado": "AM",
+      "lat": "-0,987222",
+      "lon": "-62,924167"
+    },
+    {
+      "codigo": "A429",
+      "nome": "BARRA",
+      "id": 2902804,
+      "estado": "BA",
+      "lat": "-11,084722",
+      "lon": "-43,138889"
+    },
+    {
+      "codigo": "A741",
+      "nome": "BARRA BONITA",
+      "id": 4202099,
+      "estado": "SP",
+      "lat": "-22,471111",
+      "lon": "-48,557500"
+    },
+    {
+      "codigo": "A967",
+      "nome": "BARRA DO BUGRES",
+      "id": 5101704,
+      "estado": "MT",
+      "lat": "-15,075833",
+      "lon": "-57,194722"
+    },
+    {
+      "codigo": "A945",
+      "nome": "BARRA DO GARCAS",
+      "id": 5101803,
+      "estado": "MT",
+      "lat": "-15,884722",
+      "lon": "-52,227222"
+    },
+    {
+      "codigo": "B848",
+      "nome": "BARRA DO QUARAI",
+      "id": 4301875,
+      "estado": "RS",
+      "lat": "-30,111667",
+      "lon": "-57,336111"
+    },
+    {
+      "codigo": "A746",
+      "nome": "BARRA DO TURVO",
+      "id": 3505401,
+      "estado": "SP",
+      "lat": "-24,962778",
+      "lon": "-48,416389"
+    },
+    {
+      "codigo": "A402",
+      "nome": "BARREIRAS",
+      "id": 2903201,
+      "estado": "BA",
+      "lat": "-12,124722",
+      "lon": "-45,026944"
+    },
+    {
+      "codigo": "A748",
+      "nome": "BARRETOS",
+      "id": 3505500,
+      "estado": "SP",
+      "lat": "-20,559167",
+      "lon": "-48,545000"
+    },
+    {
+      "codigo": "A755",
+      "nome": "BARUERI",
+      "id": 3505500,
+      "estado": "SP",
+      "lat": "-23,523889",
+      "lon": "-46,869444"
+    },
+    {
+      "codigo": "A759",
+      "nome": "BATAGUASSU",
+      "id": 5001904,
+      "estado": "MS",
+      "lat": "-21,750000",
+      "lon": "-52,471389"
+    },
+    {
+      "codigo": "A705",
+      "nome": "BAURU",
+      "id": 3506003,
+      "estado": "SP",
+      "lat": "-22,358056",
+      "lon": "-49,028889"
+    },
+    {
+      "codigo": "A764",
+      "nome": "BEBEDOURO",
+      "id": 3506102,
+      "estado": "SP",
+      "lat": "-20,948056",
+      "lon": "-48,471389"
+    },
+    {
+      "codigo": "A201",
+      "nome": "BELEM",
+      "id": 1501402,
+      "estado": "PA",
+      "lat": "-1,411111",
+      "lon": "-48,439444"
+    },
+    {
+      "codigo": "F501",
+      "nome": "BELO HORIZONTE - CERCADINHO",
+      "id": 3129806,
+      "estado": "MG",
+      "lat": "-19,980000",
+      "lon": "-43,958611"
+    },
+    {
+      "codigo": "A521",
+      "nome": "BELO HORIZONTE - PAMPULHA",
+      "id": 3154606,
+      "estado": "MG",
+      "lat": "-19,883889",
+      "lon": "-43,969444"
+    },
+    {
+      "codigo": "A572",
+      "nome": "BELO HORIZONTE - SANTO AGOSTINHO",
+      "id": 3156700,
+      "estado": "MG",
+      "lat": "-19,933889",
+      "lon": "-43,952222"
+    },
+    {
+      "codigo": "A840",
+      "nome": "BENTO GONCALVES",
+      "id": 4302105,
+      "estado": "RS",
+      "lat": "-29,164444",
+      "lon": "-51,534167"
+    },
+    {
+      "codigo": "A765",
+      "nome": "BERTIOGA",
+      "id": 3506359,
+      "estado": "SP",
+      "lat": "-23,844722",
+      "lon": "-46,143333"
+    },
+    {
+      "codigo": "A110",
+      "nome": "BOCA DO ACRE",
+      "id": 1300706,
+      "estado": "AM",
+      "lat": "-8,776667",
+      "lon": "-67,332500"
+    },
+    {
+      "codigo": "B856",
+      "nome": "BOM JESUS (INMET)",
+      "id": 4302303,
+      "estado": "RS",
+      "lat": "-28,669444",
+      "lon": "-50,441944"
+    },
+    {
+      "codigo": "A226",
+      "nome": "BRAGANCA",
+      "id": 1501709,
+      "estado": "PA",
+      "lat": "-1,055833",
+      "lon": "-46,782778"
+    },
+    {
+      "codigo": "A744",
+      "nome": "BRAGANCA PAULISTA",
+      "id": 3507605,
+      "estado": "SP",
+      "lat": "-22,949167",
+      "lon": "-46,526111"
+    },
+    {
+      "codigo": "A001",
+      "nome": "BRASILIA",
+      "id": 5300108,
+      "estado": "DF",
+      "lat": "-15,789444",
+      "lon": "-47,925833"
+    },
+    {
+      "codigo": "A927",
+      "nome": "BRASNORTE (NOVO MUNDO)",
+      "id": 5101902,
+      "estado": "MT",
+      "lat": "-12,521944",
+      "lon": "-58,231389"
+    },
+    {
+      "codigo": "A042",
+      "nome": "BRAZLANDIA",
+      "id": 5200258,
+      "estado": "DF",
+      "lat": "-15,652500",
+      "lon": "-48,201389"
+    },
+    {
+      "codigo": "A238",
+      "nome": "BURITICUPU",
+      "id": 2102325,
+      "estado": "MA",
+      "lat": "-4,320556",
+      "lon": "-46,449444"
+    },
+    {
+      "codigo": "A544",
+      "nome": "BURITIS",
+      "id": 3109303,
+      "estado": "MG",
+      "lat": "-15,524167",
+      "lon": "-46,435556"
+    },
+    {
+      "codigo": "A348",
+      "nome": "CABACEIRAS",
+      "id": 5204003,
+      "estado": "PB",
+      "lat": "-7,483333",
+      "lon": "-36,286389"
+    },
+    {
+      "codigo": "A329",
+      "nome": "CABROBO",
+      "id": 2603009,
+      "estado": "PE",
+      "lat": "-8,503889",
+      "lon": "-39,315278"
+    },
+    {
+      "codigo": "A812",
+      "nome": "CACAPAVA DO SUL",
+      "id": 4302808,
+      "estado": "RS",
+      "lat": "-30,545278",
+      "lon": "-53,466944"
+    },
+    {
+      "codigo": "B822",
+      "nome": "CACHOEIRA DO SUL",
+      "id": 4303004,
+      "estado": "RS",
+      "lat": "-30,018333",
+      "lon": "-52,938889"
+    },
+    {
+      "codigo": "A769",
+      "nome": "CACHOEIRA PAULISTA",
+      "id": 3508603,
+      "estado": "SP",
+      "lat": "-22,688889",
+      "lon": "-45,005556"
+    },
+    {
+      "codigo": "B808",
+      "nome": "CACHOEIRINHA",
+      "id": 4303103,
+      "estado": "RS",
+      "lat": "-29,951389",
+      "lon": "-51,124167"
+    },
+    {
+      "codigo": "A939",
+      "nome": "CACOAL",
+      "id": 1100049,
+      "estado": "RO",
+      "lat": "-11,445833",
+      "lon": "-61,434167"
+    },
+    {
+      "codigo": "A023",
+      "nome": "CAIAPONIA",
+      "id": 5204409,
+      "estado": "GO",
+      "lat": "-16,966944",
+      "lon": "-51,817500"
+    },
+    {
+      "codigo": "A316",
+      "nome": "CAICO",
+      "id": 2402100,
+      "estado": "RN",
+      "lat": "-6,467500",
+      "lon": "-37,085000"
+    },
+    {
+      "codigo": "A838",
+      "nome": "CAMAQUA",
+      "id": 4303509,
+      "estado": "RS",
+      "lat": "-30,808056",
+      "lon": "-51,834167"
+    },
+    {
+      "codigo": "A352",
+      "nome": "CAMARATUBA",
+      "id": 2509305,
+      "estado": "PB",
+      "lat": "-6,561944",
+      "lon": "-35,135278"
+    },
+    {
+      "codigo": "A897",
+      "nome": "CAMBARA DO SUL",
+      "id": 4303608,
+      "estado": "RS",
+      "lat": "-29,049167",
+      "lon": "-50,149722"
+    },
+    {
+      "codigo": "A604",
+      "nome": "CAMBUCI",
+      "id": 3300902,
+      "estado": "RJ",
+      "lat": "-21,587500",
+      "lon": "-41,958333"
+    },
+    {
+      "codigo": "B803",
+      "nome": "CAMPINA DA LAGOA",
+      "id": 4103909,
+      "estado": "PR",
+      "lat": "-24,570833",
+      "lon": "-52,800278"
+    },
+    {
+      "codigo": "A313",
+      "nome": "CAMPINA GRANDE",
+      "id": 2504009,
+      "estado": "PB",
+      "lat": "-7,225556",
+      "lon": "-35,904722"
+    },
+    {
+      "codigo": "A519",
+      "nome": "CAMPINA VERDE",
+      "id": 3111101,
+      "estado": "MG",
+      "lat": "-19,539167",
+      "lon": "-49,518056"
+    },
+    {
+      "codigo": "A884",
+      "nome": "CAMPO BOM",
+      "id": 4303905,
+      "estado": "RS",
+      "lat": "-29,674167",
+      "lon": "-51,064167"
+    },
+    {
+      "codigo": "A702",
+      "nome": "CAMPO GRANDE",
+      "id": 5002704,
+      "estado": "MS",
+      "lat": "-20,447222",
+      "lon": "-54,722500"
+    },
+    {
+      "codigo": "A912",
+      "nome": "CAMPO VERDE",
+      "id": 5102678,
+      "estado": "MT",
+      "lat": "-15,558889",
+      "lon": "-55,179444"
+    },
+    {
+      "codigo": "A962",
+      "nome": "CAMPOS DE JULIO",
+      "id": 5102686,
+      "estado": "MT",
+      "lat": "-14,052500",
+      "lon": "-59,268889"
+    },
+    {
+      "codigo": "A706",
+      "nome": "CAMPOS DO JORDAO",
+      "id": 3509700,
+      "estado": "SP",
+      "lat": "-22,750278",
+      "lon": "-45,603889"
+    },
+    {
+      "codigo": "A607",
+      "nome": "CAMPOS DOS GOYTACAZES",
+      "id": 3301009,
+      "estado": "RJ",
+      "lat": "-21,714722",
+      "lon": "-41,343889"
+    },
+    {
+      "codigo": "A620",
+      "nome": "CAMPOS DOS GOYTACAZES - SAO TOME",
+      "id": 3304151,
+      "estado": "RJ",
+      "lat": "-22,041667",
+      "lon": "-41,051667"
+    },
+    {
+      "codigo": "A957",
+      "nome": "CANARANA",
+      "id": 2906204,
+      "estado": "MT",
+      "lat": "-13,470556",
+      "lon": "-52,304444"
+    },
+    {
+      "codigo": "A879",
+      "nome": "CANELA",
+      "id": 4304408,
+      "estado": "RS",
+      "lat": "-29,368889",
+      "lon": "-50,827222"
+    },
+    {
+      "codigo": "A811",
+      "nome": "CANGUCU",
+      "id": 4304507,
+      "estado": "RS",
+      "lat": "-31,403333",
+      "lon": "-52,700833"
+    },
+    {
+      "codigo": "A365",
+      "nome": "CANTO DO BURITI",
+      "id": 2202307,
+      "estado": "PI",
+      "lat": "-8,118056",
+      "lon": "-42,975833"
+    },
+    {
+      "codigo": "B832",
+      "nome": "CAPAO DA CANOA",
+      "id": 4304630,
+      "estado": "RS",
+      "lat": "-29,685278",
+      "lon": "-49,993056"
+    },
+    {
+      "codigo": "A887",
+      "nome": "CAPAO DO LEAO (PELOTAS)",
+      "id": 4304663,
+      "estado": "RS",
+      "lat": "-31,802500",
+      "lon": "-52,407222"
+    },
+    {
+      "codigo": "A541",
+      "nome": "CAPELINHA",
+      "id": 3112307,
+      "estado": "MG",
+      "lat": "-17,705556",
+      "lon": "-42,389167"
+    },
+    {
+      "codigo": "A248",
+      "nome": "CAPITAO POCO",
+      "id": 1502301,
+      "estado": "PA",
+      "lat": "-1,734722",
+      "lon": "-47,057500"
+    },
+    {
+      "codigo": "A554",
+      "nome": "CARATINGA",
+      "id": 3113404,
+      "estado": "MG",
+      "lat": "-19,735833",
+      "lon": "-42,137222"
+    },
+    {
+      "codigo": "A405",
+      "nome": "CARAVELAS",
+      "id": 2906907,
+      "estado": "BA",
+      "lat": "-17,739444",
+      "lon": "-39,258611"
+    },
+    {
+      "codigo": "B842",
+      "nome": "CARAZINHO",
+      "id": 4304705,
+      "estado": "RS",
+      "lat": "-28,323333",
+      "lon": "-52,814444"
+    },
+    {
+      "codigo": "A629",
+      "nome": "CARMO",
+      "id": 3301207,
+      "estado": "RJ",
+      "lat": "-21,938611",
+      "lon": "-42,600833"
+    },
+    {
+      "codigo": "A205",
+      "nome": "CAROLINA",
+      "id": 2102804,
+      "estado": "MA",
+      "lat": "-7,337222",
+      "lon": "-47,459722"
+    },
+    {
+      "codigo": "A341",
+      "nome": "CARUARU",
+      "id": 2604106,
+      "estado": "PE",
+      "lat": "-8,356111",
+      "lon": "-36,028333"
+    },
+    {
+      "codigo": "A738",
+      "nome": "CASA BRANCA",
+      "id": 3510807,
+      "estado": "SP",
+      "lat": "-21,780556",
+      "lon": "-47,075278"
+    },
+    {
+      "codigo": "B858",
+      "nome": "CASCA",
+      "id": 4304903,
+      "estado": "RS",
+      "lat": "-28,563611",
+      "lon": "-51,969167"
+    },
+    {
+      "codigo": "A742",
+      "nome": "CASSILANDIA",
+      "id": 5002902,
+      "estado": "MS",
+      "lat": "-19,122500",
+      "lon": "-51,720833"
+    },
+    {
+      "codigo": "A202",
+      "nome": "CASTANHAL",
+      "id": 1502400,
+      "estado": "PA",
+      "lat": "-1,300833",
+      "lon": "-47,948056"
+    },
+    {
+      "codigo": "A361",
+      "nome": "CASTELO DO PIAUI",
+      "id": 2202604,
+      "estado": "PI",
+      "lat": "-5,349167",
+      "lon": "-41,512222"
+    },
+    {
+      "codigo": "A034",
+      "nome": "CATALAO",
+      "id": 5205109,
+      "estado": "GO",
+      "lat": "-18,154722",
+      "lon": "-47,927500"
+    },
+    {
+      "codigo": "A237",
+      "nome": "CAXIAS",
+      "id": 2103000,
+      "estado": "MA",
+      "lat": "-4,821389",
+      "lon": "-43,343611"
+    },
+    {
+      "codigo": "B818",
+      "nome": "CAXIAS DO SUL - AEROPORTO",
+      "id": 4305108,
+      "estado": "RS",
+      "lat": "-29,196111",
+      "lon": "-51,186389"
+    },
+    {
+      "codigo": "B817",
+      "nome": "CAXIAS DO SUL - CRIUVA",
+      "id": 4300802,
+      "estado": "RS",
+      "lat": "-28,874167",
+      "lon": "-50,975556"
+    },
+    {
+      "codigo": "A958",
+      "nome": "CHAPADA DOS GUIMARAES",
+      "id": 5103007,
+      "estado": "MT",
+      "lat": "-15,460556",
+      "lon": "-55,749722"
+    },
+    {
+      "codigo": "A730",
+      "nome": "CHAPADAO DO SUL",
+      "id": 5002951,
+      "estado": "MS",
+      "lat": "-18,802222",
+      "lon": "-52,602500"
+    },
+    {
+      "codigo": "A206",
+      "nome": "CHAPADINHA",
+      "id": 2103208,
+      "estado": "MA",
+      "lat": "-3,742778",
+      "lon": "-43,352222"
+    },
+    {
+      "codigo": "A895",
+      "nome": "CHAPECO",
+      "id": 4204202,
+      "estado": "SC",
+      "lat": "-27,085278",
+      "lon": "-52,635833"
+    },
+    {
+      "codigo": "B812",
+      "nome": "CHARQUEADAS",
+      "id": 4305355,
+      "estado": "RS",
+      "lat": "-29,965556",
+      "lon": "-51,625556"
+    },
+    {
+      "codigo": "A869",
+      "nome": "CIDADE GAUCHA",
+      "id": 4105607,
+      "estado": "PR",
+      "lat": "-23,359167",
+      "lon": "-52,931944"
+    },
+    {
+      "codigo": "A954",
+      "nome": "COCALINHO",
+      "id": 5103106,
+      "estado": "MT",
+      "lat": "-14,385556",
+      "lon": "-51,009722"
+    },
+    {
+      "codigo": "B806",
+      "nome": "COLOMBO",
+      "id": 4105805,
+      "estado": "PR",
+      "lat": "-25,322464",
+      "lon": "-49,157733"
+    },
+    {
+      "codigo": "A520",
+      "nome": "CONCEICAO DAS ALAGOAS",
+      "id": 3117306,
+      "estado": "MG",
+      "lat": "-19,985833",
+      "lon": "-48,151667"
+    },
+    {
+      "codigo": "A241",
+      "nome": "CONCEICAO DO ARAGUAIA",
+      "id": 1502707,
+      "estado": "PA",
+      "lat": "-8,303611",
+      "lon": "-49,282778"
+    },
+    {
+      "codigo": "A557",
+      "nome": "CORONEL PACHECO",
+      "id": 3119609,
+      "estado": "MG",
+      "lat": "-21,546667",
+      "lon": "-43,261111"
+    },
+    {
+      "codigo": "A374",
+      "nome": "CORRENTE",
+      "id": 2202901,
+      "estado": "PI",
+      "lat": "-10,429167",
+      "lon": "-45,173056"
+    },
+    {
+      "codigo": "A416",
+      "nome": "CORRENTINA",
+      "id": 2909307,
+      "estado": "BA",
+      "lat": "-13,332500",
+      "lon": "-44,617500"
+    },
+    {
+      "codigo": "A724",
+      "nome": "CORUMBA",
+      "id": 5003207,
+      "estado": "MS",
+      "lat": "-18,996667",
+      "lon": "-57,637500"
+    },
+    {
+      "codigo": "A760",
+      "nome": "COSTA RICA",
+      "id": 5003256,
+      "estado": "MS",
+      "lat": "-18,492778",
+      "lon": "-53,171389"
+    },
+    {
+      "codigo": "A720",
+      "nome": "COXIM",
+      "id": 5003306,
+      "estado": "MS",
+      "lat": "-18,512222",
+      "lon": "-54,736111"
+    },
+    {
+      "codigo": "A036",
+      "nome": "CRISTALINA",
+      "id": 5206206,
+      "estado": "GO",
+      "lat": "-16,785000",
+      "lon": "-47,613056"
+    },
+    {
+      "codigo": "A056",
+      "nome": "CRISTALINA (FAZENDA SANTA MONICA)",
+      "id": 5206206,
+      "estado": "GO",
+      "lat": "-16,399444",
+      "lon": "-47,625833"
+    },
+    {
+      "codigo": "A853",
+      "nome": "CRUZ ALTA",
+      "id": 4302220,
+      "estado": "RS",
+      "lat": "-28,603333",
+      "lon": "-53,673611"
+    },
+    {
+      "codigo": "B833",
+      "nome": "CRUZ ALTA ( CENTRO)",
+      "id": 4306106,
+      "estado": "RS",
+      "lat": "-28,625833",
+      "lon": "-53,613611"
+    },
+    {
+      "codigo": "A406",
+      "nome": "CRUZ DAS ALMAS",
+      "id": 2909802,
+      "estado": "BA",
+      "lat": "-12,675556",
+      "lon": "-39,089444"
+    },
+    {
+      "codigo": "A901",
+      "nome": "CUIABA",
+      "id": 5103403,
+      "estado": "MT",
+      "lat": "-15,606944",
+      "lon": "-56,060833"
+    },
+    {
+      "codigo": "A448",
+      "nome": "CURACA",
+      "id": 2909901,
+      "estado": "BA",
+      "lat": "-9,001389",
+      "lon": "-39,912500"
+    },
+    {
+      "codigo": "A807",
+      "nome": "CURITIBA",
+      "id": 4106902,
+      "estado": "PR",
+      "lat": "-25,448611",
+      "lon": "-49,230556"
+    },
+    {
+      "codigo": "A860",
+      "nome": "CURITIBANOS",
+      "id": 4204806,
+      "estado": "SC",
+      "lat": "-27,288611",
+      "lon": "-50,604167"
+    },
+    {
+      "codigo": "A538",
+      "nome": "CURVELO",
+      "id": 3120904,
+      "estado": "MG",
+      "lat": "-18,747778",
+      "lon": "-44,453889"
+    },
+    {
+      "codigo": "A537",
+      "nome": "DIAMANTINA",
+      "id": 3121605,
+      "estado": "MG",
+      "lat": "-18,231052",
+      "lon": "-43,648269"
+    },
+    {
+      "codigo": "A949",
+      "nome": "DIAMANTINO",
+      "id": 5103502,
+      "estado": "MT",
+      "lat": "-14,377778",
+      "lon": "-56,379722"
+    },
+    {
+      "codigo": "A038",
+      "nome": "DIANOPOLIS",
+      "id": 1707009,
+      "estado": "TO",
+      "lat": "-11,594444",
+      "lon": "-46,847222"
+    },
+    {
+      "codigo": "A848",
+      "nome": "DIONISIO CERQUEIRA",
+      "id": 4205001,
+      "estado": "SC",
+      "lat": "-26,286562",
+      "lon": "-53,633114"
+    },
+    {
+      "codigo": "A564",
+      "nome": "DIVINOPOLIS",
+      "id": 3122306,
+      "estado": "MG",
+      "lat": "-20,173333",
+      "lon": "-44,875000"
+    },
+    {
+      "codigo": "A843",
+      "nome": "DOIS VIZINHOS",
+      "id": 4107207,
+      "estado": "PR",
+      "lat": "-25,699167",
+      "lon": "-53,095278"
+    },
+    {
+      "codigo": "A252",
+      "nome": "DOM ELISEU",
+      "id": 1502939,
+      "estado": "PA",
+      "lat": "-4,280556",
+      "lon": "-47,563889"
+    },
+    {
+      "codigo": "A536",
+      "nome": "DORES DO INDAIA",
+      "id": 3123205,
+      "estado": "MG",
+      "lat": "-19,481944",
+      "lon": "-45,593889"
+    },
+    {
+      "codigo": "A721",
+      "nome": "DOURADOS",
+      "id": 5003702,
+      "estado": "MS",
+      "lat": "-22,193889",
+      "lon": "-54,911389"
+    },
+    {
+      "codigo": "A603",
+      "nome": "DUQUE DE CAXIAS - XEREM",
+      "id": 3301702,
+      "estado": "RJ",
+      "lat": "-22,589722",
+      "lon": "-43,282222"
+    },
+    {
+      "codigo": "A029",
+      "nome": "EDEIA",
+      "id": 5207402,
+      "estado": "GO",
+      "lat": "-17,336944",
+      "lon": "-49,914722"
+    },
+    {
+      "codigo": "A893",
+      "nome": "ENCRUZILHADA DO SUL",
+      "id": 4306600,
+      "estado": "RS",
+      "lat": "-30,543056",
+      "lon": "-52,524722"
+    },
+    {
+      "codigo": "A828",
+      "nome": "ERECHIM",
+      "id": 4307005,
+      "estado": "RS",
+      "lat": "-27,657778",
+      "lon": "-52,305833"
+    },
+    {
+      "codigo": "B845",
+      "nome": "ESPERANCA DO SUL",
+      "id": 4307450,
+      "estado": "RS",
+      "lat": "-27,374167",
+      "lon": "-53,969167"
+    },
+    {
+      "codigo": "A543",
+      "nome": "ESPINOSA",
+      "id": 3124302,
+      "estado": "MG",
+      "lat": "-14,912222",
+      "lon": "-42,808611"
+    },
+    {
+      "codigo": "A224",
+      "nome": "ESTREITO",
+      "id": 2104057,
+      "estado": "MA",
+      "lat": "-6,653333",
+      "lon": "-47,418333"
+    },
+    {
+      "codigo": "A442",
+      "nome": "EUCLIDES DA CUNHA",
+      "id": 2910701,
+      "estado": "BA",
+      "lat": "-10,537222",
+      "lon": "-38,996667"
+    },
+    {
+      "codigo": "B854",
+      "nome": "FAXINAL DO SOTURNO",
+      "id": 4308003,
+      "estado": "RS",
+      "lat": "-29,587500",
+      "lon": "-53,427500"
+    },
+    {
+      "codigo": "A138",
+      "nome": "FEIJO",
+      "id": 1200302,
+      "estado": "AC",
+      "lat": "-8,142778",
+      "lon": "-70,343611"
+    },
+    {
+      "codigo": "A951",
+      "nome": "FELIZ NATAL",
+      "id": 5103700,
+      "estado": "MT",
+      "lat": "-12,396944",
+      "lon": "-54,930000"
+    },
+    {
+      "codigo": "A535",
+      "nome": "FLORESTAL",
+      "id": 3126000,
+      "estado": "MG",
+      "lat": "-19,885278",
+      "lon": "-44,416944"
+    },
+    {
+      "codigo": "A524",
+      "nome": "FORMIGA",
+      "id": 3126109,
+      "estado": "MG",
+      "lat": "-20,455000",
+      "lon": "-45,453889"
+    },
+    {
+      "codigo": "A039",
+      "nome": "FORMOSO DO ARAGUAIA",
+      "id": 1708205,
+      "estado": "TO",
+      "lat": "-11,887500",
+      "lon": "-49,608333"
+    },
+    {
+      "codigo": "A708",
+      "nome": "FRANCA",
+      "id": 3516200,
+      "estado": "SP",
+      "lat": "-20,584444",
+      "lon": "-47,382500"
+    },
+    {
+      "codigo": "A854",
+      "nome": "FREDERICO WESTPHALEN",
+      "id": 4308508,
+      "estado": "RS",
+      "lat": "-27,395556",
+      "lon": "-53,429444"
+    },
+    {
+      "codigo": "A046",
+      "nome": "GAMA (PONTE ALTA)",
+      "id": 5219753,
+      "estado": "DF",
+      "lat": "-15,935278",
+      "lon": "-48,137500"
+    },
+    {
+      "codigo": "A322",
+      "nome": "GARANHUNS",
+      "id": 2606002,
+      "estado": "PE",
+      "lat": "-8,910833",
+      "lon": "-36,493333"
+    },
+    {
+      "codigo": "B834",
+      "nome": "GARRUCHOS",
+      "id": 4308656,
+      "estado": "RS",
+      "lat": "-28,196944",
+      "lon": "-55,629722"
+    },
+    {
+      "codigo": "A930",
+      "nome": "GAUCHA DO NORTE",
+      "id": 5103858,
+      "estado": "MT",
+      "lat": "-13,184722",
+      "lon": "-53,257500"
+    },
+    {
+      "codigo": "A875",
+      "nome": "GENERAL CARNEIRO",
+      "id": 4108502,
+      "estado": "PR",
+      "lat": "-26,398611",
+      "lon": "-51,353611"
+    },
+    {
+      "codigo": "A022",
+      "nome": "GOIANESIA",
+      "id": 5208608,
+      "estado": "GO",
+      "lat": "-15,220278",
+      "lon": "-48,990000"
+    },
+    {
+      "codigo": "A002",
+      "nome": "GOIANIA",
+      "id": 5208707,
+      "estado": "GO",
+      "lat": "-16,642778",
+      "lon": "-49,220278"
+    },
+    {
+      "codigo": "A014",
+      "nome": "GOIAS",
+      "id": 5208905,
+      "estado": "GO",
+      "lat": "-15,939722",
+      "lon": "-50,141389"
+    },
+    {
+      "codigo": "A825",
+      "nome": "GOIOERE",
+      "id": 4108601,
+      "estado": "PR",
+      "lat": "-24,183889",
+      "lon": "-53,048889"
+    },
+    {
+      "codigo": "A532",
+      "nome": "GOVERNADOR VALADARES",
+      "id": 3127701,
+      "estado": "MG",
+      "lat": "-18,830278",
+      "lon": "-41,976944"
+    },
+    {
+      "codigo": "A426",
+      "nome": "GUANAMBI",
+      "id": 2911709,
+      "estado": "BA",
+      "lat": "-14,208056",
+      "lon": "-42,749722"
+    },
+    {
+      "codigo": "A546",
+      "nome": "GUARDA-MOR",
+      "id": 3128600,
+      "estado": "MG",
+      "lat": "-17,561389",
+      "lon": "-47,199167"
+    },
+    {
+      "codigo": "A932",
+      "nome": "GUIRATINGA",
+      "id": 2911808,
+      "estado": "MT",
+      "lat": "-16,341667",
+      "lon": "-53,766111"
+    },
+    {
+      "codigo": "B826",
+      "nome": "HERVAL",
+      "id": 4307104,
+      "estado": "RS",
+      "lat": "-32,012778",
+      "lon": "-53,403056"
+    },
+    {
+      "codigo": "A112",
+      "nome": "HUMAITA",
+      "id": 1301704,
+      "estado": "AM",
+      "lat": "-7,552500",
+      "lon": "-63,071389"
+    },
+    {
+      "codigo": "A349",
+      "nome": "IBIMIRIM",
+      "id": 2606606,
+      "estado": "PE",
+      "lat": "-8,509444",
+      "lon": "-37,711667"
+    },
+    {
+      "codigo": "A883",
+      "nome": "IBIRUBA",
+      "id": 4310009,
+      "estado": "RS",
+      "lat": "-28,653333",
+      "lon": "-53,111944"
+    },
+    {
+      "codigo": "A737",
+      "nome": "IBITINGA",
+      "id": 3519600,
+      "estado": "SP",
+      "lat": "-21,855556",
+      "lon": "-48,799722"
+    },
+    {
+      "codigo": "A712",
+      "nome": "IGUAPE",
+      "id": 3520301,
+      "estado": "SP",
+      "lat": "-24,671667",
+      "lon": "-47,545833"
+    },
+    {
+      "codigo": "A319",
+      "nome": "IGUATU",
+      "id": 2305506,
+      "estado": "CE",
+      "lat": "-6,396389",
+      "lon": "-39,268889"
+    },
+    {
+      "codigo": "A225",
+      "nome": "IMPERATRIZ",
+      "id": 2105302,
+      "estado": "MA",
+      "lat": "-5,555833",
+      "lon": "-47,459722"
+    },
+    {
+      "codigo": "A372",
+      "nome": "IPANGUACU",
+      "id": 2404705,
+      "estado": "RN",
+      "lat": "-5,535000",
+      "lon": "-36,872222"
+    },
+    {
+      "codigo": "A713",
+      "nome": "IPERO",
+      "id": 3521002,
+      "estado": "SP",
+      "lat": "-23,426111",
+      "lon": "-47,585556"
+    },
+    {
+      "codigo": "A028",
+      "nome": "IPORA",
+      "id": 5210208,
+      "estado": "GO",
+      "lat": "-16,423056",
+      "lon": "-51,148889"
+    },
+    {
+      "codigo": "A424",
+      "nome": "IRECE",
+      "id": 2914604,
+      "estado": "BA",
+      "lat": "-11,328889",
+      "lon": "-41,864444"
+    },
+    {
+      "codigo": "A417",
+      "nome": "ITABAIANINHA",
+      "id": 2803005,
+      "estado": "SE",
+      "lat": "-11,272500",
+      "lon": "-37,795000"
+    },
+    {
+      "codigo": "A408",
+      "nome": "ITABERABA",
+      "id": 2914703,
+      "estado": "BA",
+      "lat": "-12,524167",
+      "lon": "-40,299722"
+    },
+    {
+      "codigo": "A121",
+      "nome": "ITACOATIARA",
+      "id": 1301902,
+      "estado": "AM",
+      "lat": "-3,133333",
+      "lon": "-58,482778"
+    },
+    {
+      "codigo": "A231",
+      "nome": "ITAITUBA",
+      "id": 1503606,
+      "estado": "PA",
+      "lat": "-4,276944",
+      "lon": "-55,993056"
+    },
+    {
+      "codigo": "A868",
+      "nome": "ITAJAI",
+      "id": 4208203,
+      "estado": "SC",
+      "lat": "-26,950833",
+      "lon": "-48,761944"
+    },
+    {
+      "codigo": "A950",
+      "nome": "ITANHANGA",
+      "id": 5104542,
+      "estado": "MT",
+      "lat": "-12,234167",
+      "lon": "-56,602222"
+    },
+    {
+      "codigo": "A714",
+      "nome": "ITAPEVA",
+      "id": 3522406,
+      "estado": "SP",
+      "lat": "-23,981944",
+      "lon": "-48,885833"
+    },
+    {
+      "codigo": "A739",
+      "nome": "ITAPIRA",
+      "id": 3522604,
+      "estado": "SP",
+      "lat": "-22,415000",
+      "lon": "-46,805278"
+    },
+    {
+      "codigo": "A851",
+      "nome": "ITAPOA",
+      "id": 4208450,
+      "estado": "SC",
+      "lat": "-26,081389",
+      "lon": "-48,641667"
+    },
+    {
+      "codigo": "B850",
+      "nome": "ITAQUI",
+      "id": 4310603,
+      "estado": "RS",
+      "lat": "-29,155556",
+      "lon": "-56,555556"
+    },
+    {
+      "codigo": "A933",
+      "nome": "ITIQUIRA",
+      "id": 5104609,
+      "estado": "MT",
+      "lat": "-17,175000",
+      "lon": "-54,501667"
+    },
+    {
+      "codigo": "A035",
+      "nome": "ITUMBIARA",
+      "id": 5211503,
+      "estado": "GO",
+      "lat": "-18,409722",
+      "lon": "-49,191944"
+    },
+    {
+      "codigo": "A863",
+      "nome": "ITUPORANGA",
+      "id": 4208500,
+      "estado": "SC",
+      "lat": "-27,418333",
+      "lon": "-49,646944"
+    },
+    {
+      "codigo": "A753",
+      "nome": "ITUVERAVA",
+      "id": 3524105,
+      "estado": "SP",
+      "lat": "-20,359722",
+      "lon": "-47,775278"
+    },
+    {
+      "codigo": "A818",
+      "nome": "IVAI",
+      "id": 4110800,
+      "estado": "PR",
+      "lat": "-25,010833",
+      "lon": "-50,853889"
+    },
+    {
+      "codigo": "A709",
+      "nome": "IVINHEMA",
+      "id": 5004700,
+      "estado": "MS",
+      "lat": "-22,300556",
+      "lon": "-53,822778"
+    },
+    {
+      "codigo": "A836",
+      "nome": "JAGUARAO",
+      "id": 4311007,
+      "estado": "RS",
+      "lat": "-32,534722",
+      "lon": "-53,375833"
+    },
+    {
+      "codigo": "A339",
+      "nome": "JAGUARUANA",
+      "id": 2307007,
+      "estado": "CE",
+      "lat": "-4,837778",
+      "lon": "-37,699722"
+    },
+    {
+      "codigo": "A733",
+      "nome": "JALES",
+      "id": 3524808,
+      "estado": "SP",
+      "lat": "-20,165000",
+      "lon": "-50,595000"
+    },
+    {
+      "codigo": "A559",
+      "nome": "JANUARIA",
+      "id": 3135200,
+      "estado": "MG",
+      "lat": "-15,448056",
+      "lon": "-44,366389"
+    },
+    {
+      "codigo": "A871",
+      "nome": "JAPIRA",
+      "id": 4112306,
+      "estado": "PR",
+      "lat": "-23,773333",
+      "lon": "-50,180556"
+    },
+    {
+      "codigo": "A758",
+      "nome": "JARDIM",
+      "id": 5005004,
+      "estado": "MS",
+      "lat": "-21,478611",
+      "lon": "-56,137778"
+    },
+    {
+      "codigo": "A016",
+      "nome": "JATAI",
+      "id": 5211909,
+      "estado": "GO",
+      "lat": "-17,923611",
+      "lon": "-51,717500"
+    },
+    {
+      "codigo": "A553",
+      "nome": "JOAO PINHEIRO",
+      "id": 3136306,
+      "estado": "MG",
+      "lat": "-17,784444",
+      "lon": "-46,119444"
+    },
+    {
+      "codigo": "A821",
+      "nome": "JOAQUIM TAVORA",
+      "id": 4112801,
+      "estado": "PR",
+      "lat": "-23,505278",
+      "lon": "-49,946389"
+    },
+    {
+      "codigo": "A735",
+      "nome": "JOSE BONIFACIO",
+      "id": 3525706,
+      "estado": "SP",
+      "lat": "-21,085556",
+      "lon": "-49,920278"
+    },
+    {
+      "codigo": "A518",
+      "nome": "JUIZ DE FORA",
+      "id": 3136702,
+      "estado": "MG",
+      "lat": "-21,770000",
+      "lon": "-43,364444"
+    },
+    {
+      "codigo": "A865",
+      "nome": "LAGES",
+      "id": 4209300,
+      "estado": "SC",
+      "lat": "-27,802222",
+      "lon": "-50,335556"
+    },
+    {
+      "codigo": "A055",
+      "nome": "LAGOA DA CONFUSAO",
+      "id": 1711902,
+      "estado": "TO",
+      "lat": "-10,828286",
+      "lon": "-49,847882"
+    },
+    {
+      "codigo": "A844",
+      "nome": "LAGOA VERMELHA",
+      "id": 4311304,
+      "estado": "RS",
+      "lat": "-28,222500",
+      "lon": "-51,512778"
+    },
+    {
+      "codigo": "A614",
+      "nome": "LINHARES",
+      "id": 3203205,
+      "estado": "ES",
+      "lat": "-19,356944",
+      "lon": "-40,068611"
+    },
+    {
+      "codigo": "A727",
+      "nome": "LINS",
+      "id": 3527108,
+      "estado": "SP",
+      "lat": "-21,666111",
+      "lon": "-49,734722"
+    },
+    {
+      "codigo": "A955",
+      "nome": "LUCAS DO RIO VERDE",
+      "id": 5105259,
+      "estado": "MT",
+      "lat": "-13,075000",
+      "lon": "-55,911389"
+    },
+    {
+      "codigo": "A404",
+      "nome": "LUIS EDUARDO MAGALHAES",
+      "id": 2919553,
+      "estado": "BA",
+      "lat": "-12,085000",
+      "lon": "-45,705278"
+    },
+    {
+      "codigo": "A012",
+      "nome": "LUZIANIA",
+      "id": 5212501,
+      "estado": "GO",
+      "lat": "-16,260556",
+      "lon": "-47,966944"
+    },
+    {
+      "codigo": "A608",
+      "nome": "MACAE",
+      "id": 3302403,
+      "estado": "RJ",
+      "lat": "-22,376111",
+      "lon": "-41,811944"
+    },
+    {
+      "codigo": "A249",
+      "nome": "MACAPA",
+      "id": 1600303,
+      "estado": "AP",
+      "lat": "0,035000",
+      "lon": "-51,088889"
+    },
+    {
+      "codigo": "A317",
+      "nome": "MACAU",
+      "id": 2407203,
+      "estado": "RN",
+      "lat": "-5,151111",
+      "lon": "-36,573056"
+    },
+    {
+      "codigo": "A303",
+      "nome": "MACEIO",
+      "id": 2704302,
+      "estado": "AL",
+      "lat": "-9,551111",
+      "lon": "-35,770278"
+    },
+    {
+      "codigo": "A567",
+      "nome": "MACHADO",
+      "id": 3139003,
+      "estado": "MG",
+      "lat": "-21,680833",
+      "lon": "-45,944444"
+    },
+    {
+      "codigo": "A864",
+      "nome": "MAJOR VIEIRA",
+      "id": 4210308,
+      "estado": "SC",
+      "lat": "-26,393611",
+      "lon": "-50,363333"
+    },
+    {
+      "codigo": "A820",
+      "nome": "MAL. CANDIDO RONDON",
+      "id": 4114609,
+      "estado": "PR",
+      "lat": "-24,533333",
+      "lon": "-54,019167"
+    },
+    {
+      "codigo": "A119",
+      "nome": "MANACAPURU",
+      "id": 1302504,
+      "estado": "AM",
+      "lat": "-3,294722",
+      "lon": "-60,628333"
+    },
+    {
+      "codigo": "A101",
+      "nome": "MANAUS",
+      "id": 1302603,
+      "estado": "AM",
+      "lat": "-3,103333",
+      "lon": "-60,016389"
+    },
+    {
+      "codigo": "A556",
+      "nome": "MANHUACU",
+      "id": 3139409,
+      "estado": "MG",
+      "lat": "-20,263333",
+      "lon": "-42,182778"
+    },
+    {
+      "codigo": "A133",
+      "nome": "MANICORE",
+      "id": 1302702,
+      "estado": "AM",
+      "lat": "-5,788611",
+      "lon": "-61,288333"
+    },
+    {
+      "codigo": "A540",
+      "nome": "MANTENA",
+      "id": 3139607,
+      "estado": "MG",
+      "lat": "-18,780556",
+      "lon": "-40,986389"
+    },
+    {
+      "codigo": "A731",
+      "nome": "MARACAJU",
+      "id": 5005400,
+      "estado": "MS",
+      "lat": "-21,609167",
+      "lon": "-55,177500"
+    },
+    {
+      "codigo": "A946",
+      "nome": "MARCELANDIA",
+      "id": 5105580,
+      "estado": "MT",
+      "lat": "-11,085000",
+      "lon": "-54,513889"
+    },
+    {
+      "codigo": "A531",
+      "nome": "MARIA DA FE",
+      "id": 3139904,
+      "estado": "MG",
+      "lat": "-22,314444",
+      "lon": "-45,373056"
+    },
+    {
+      "codigo": "A041",
+      "nome": "MARIANOPOLIS DO TO",
+      "id": 1712504,
+      "estado": "TO",
+      "lat": "-9,576389",
+      "lon": "-49,723333"
+    },
+    {
+      "codigo": "A632",
+      "nome": "MARILANDIA",
+      "id": 3203353,
+      "estado": "ES",
+      "lat": "-19,407222",
+      "lon": "-40,539722"
+    },
+    {
+      "codigo": "A763",
+      "nome": "MARILIA",
+      "id": 3529005,
+      "estado": "SP",
+      "lat": "-22,235278",
+      "lon": "-49,965000"
+    },
+    {
+      "codigo": "A835",
+      "nome": "MARINGA",
+      "id": 4115200,
+      "estado": "PR",
+      "lat": "-23,405278",
+      "lon": "-51,932778"
+    },
+    {
+      "codigo": "A040",
+      "nome": "MATEIROS",
+      "id": 1712702,
+      "estado": "TO",
+      "lat": "-10,434444",
+      "lon": "-45,921944"
+    },
+    {
+      "codigo": "A246",
+      "nome": "MINA DO PALITO",
+      "id": 1503606,
+      "estado": "PA",
+      "lat": "-6,320000",
+      "lon": "-55,787778"
+    },
+    {
+      "codigo": "B813",
+      "nome": "MINAS DO LEAO",
+      "id": 4312252,
+      "estado": "RS",
+      "lat": "-30,124444",
+      "lon": "-52,050833"
+    },
+    {
+      "codigo": "A722",
+      "nome": "MIRANDA",
+      "id": 5005608,
+      "estado": "MS",
+      "lat": "-20,395556",
+      "lon": "-56,431667"
+    },
+    {
+      "codigo": "A961",
+      "nome": "MIRASSOL D'OESTE",
+      "id": 5105622,
+      "estado": "MT",
+      "lat": "-15,640278",
+      "lon": "-58,078889"
+    },
+    {
+      "codigo": "A539",
+      "nome": "MOCAMBINHO",
+      "id": 3144102,
+      "estado": "MG",
+      "lat": "-15,085833",
+      "lon": "-44,016111"
+    },
+    {
+      "codigo": "A239",
+      "nome": "MONTE ALEGRE",
+      "id": 1504802,
+      "estado": "PA",
+      "lat": "-2,000000",
+      "lon": "-54,076389"
+    },
+    {
+      "codigo": "A032",
+      "nome": "MONTE ALEGRE DE GOIAS",
+      "id": 5213509,
+      "estado": "GO",
+      "lat": "-13,253611",
+      "lon": "-46,890278"
+    },
+    {
+      "codigo": "A509",
+      "nome": "MONTE VERDE",
+      "id": 3110509,
+      "estado": "MG",
+      "lat": "-22,861667",
+      "lon": "-46,043333"
+    },
+    {
+      "codigo": "A334",
+      "nome": "MONTEIRO",
+      "id": 2509701,
+      "estado": "PB",
+      "lat": "-7,894444",
+      "lon": "-37,124722"
+    },
+    {
+      "codigo": "B814",
+      "nome": "MONTENEGRO",
+      "id": 4312401,
+      "estado": "RS",
+      "lat": "-29,758611",
+      "lon": "-51,436111"
+    },
+    {
+      "codigo": "A506",
+      "nome": "MONTES CLAROS",
+      "id": 3143302,
+      "estado": "MG",
+      "lat": "-16,686389",
+      "lon": "-43,843889"
+    },
+    {
+      "codigo": "A332",
+      "nome": "MORADA NOVA",
+      "id": 2308708,
+      "estado": "CE",
+      "lat": "-5,091111",
+      "lon": "-38,364722"
+    },
+    {
+      "codigo": "A873",
+      "nome": "MORRETES",
+      "id": 4116208,
+      "estado": "PR",
+      "lat": "-25,508889",
+      "lon": "-48,808611"
+    },
+    {
+      "codigo": "A318",
+      "nome": "MOSSORO",
+      "id": 2408003,
+      "estado": "RN",
+      "lat": "-4,904167",
+      "lon": "-37,366944"
+    },
+    {
+      "codigo": "B862",
+      "nome": "MOSTARDAS - BACUPARI",
+      "id": 4312500,
+      "estado": "RS",
+      "lat": "-30,506111",
+      "lon": "-50,420000"
+    },
+    {
+      "codigo": "B859",
+      "nome": "MUCUM",
+      "id": 4312609,
+      "estado": "RS",
+      "lat": "-29,153611",
+      "lon": "-51,865278"
+    },
+    {
+      "codigo": "A517",
+      "nome": "MURIAE",
+      "id": 3143906,
+      "estado": "MG",
+      "lat": "-21,105000",
+      "lon": "-42,375833"
+    },
+    {
+      "codigo": "A304",
+      "nome": "NATAL",
+      "id": 2408102,
+      "estado": "RN",
+      "lat": "-5,837222",
+      "lon": "-35,208056"
+    },
+    {
+      "codigo": "A717",
+      "nome": "NHUMIRIM",
+      "id": 5003207,
+      "estado": "MS",
+      "lat": "-18,988611",
+      "lon": "-56,622778"
+    },
+    {
+      "codigo": "A627",
+      "nome": "NITEROI",
+      "id": 3303302,
+      "estado": "RJ",
+      "lat": "-22,867500",
+      "lon": "-43,101944"
+    },
+    {
+      "codigo": "B846",
+      "nome": "NONOAI",
+      "id": 4312708,
+      "estado": "RS",
+      "lat": "-27,358611",
+      "lon": "-52,778056"
+    },
+    {
+      "codigo": "A953",
+      "nome": "NOVA CANAA DO NORTE",
+      "id": 5106216,
+      "estado": "MT",
+      "lat": "-10,624444",
+      "lon": "-55,724167"
+    },
+    {
+      "codigo": "A624",
+      "nome": "NOVA FRIBURGO - SALINAS",
+      "id": 3303401,
+      "estado": "RJ",
+      "lat": "-22,334722",
+      "lon": "-42,676944"
+    },
+    {
+      "codigo": "A928",
+      "nome": "NOVA MARINGA",
+      "id": 5108907,
+      "estado": "MT",
+      "lat": "-13,038611",
+      "lon": "-57,092222"
+    },
+    {
+      "codigo": "A563",
+      "nome": "NOVA PORTEIRINHA (JANAUBA)",
+      "id": 3135100,
+      "estado": "MG",
+      "lat": "-15,802778",
+      "lon": "-43,296944"
+    },
+    {
+      "codigo": "A822",
+      "nome": "NOVA TEBAS",
+      "id": 4117271,
+      "estado": "PR",
+      "lat": "-24,433889",
+      "lon": "-51,953889"
+    },
+    {
+      "codigo": "A956",
+      "nome": "NOVA XAVANTINA",
+      "id": 5106257,
+      "estado": "MT",
+      "lat": "-14,697778",
+      "lon": "-52,350278"
+    },
+    {
+      "codigo": "A144",
+      "nome": "NOVO ARIPUANA",
+      "id": 1303304,
+      "estado": "AM",
+      "lat": "-8,091111",
+      "lon": "-60,380556"
+    },
+    {
+      "codigo": "A235",
+      "nome": "NOVO REPARTIMENTO",
+      "id": 1505100,
+      "estado": "PA",
+      "lat": "-4,243889",
+      "lon": "-49,939444"
+    },
+    {
+      "codigo": "A947",
+      "nome": "NOVO SANTO ANTONIO",
+      "id": 5106315,
+      "estado": "MT",
+      "lat": "-12,288056",
+      "lon": "-50,971389"
+    },
+    {
+      "codigo": "A242",
+      "nome": "OIAPOQUE",
+      "id": 1600501,
+      "estado": "AP",
+      "lat": "3,813611",
+      "lon": "-51,862500"
+    },
+    {
+      "codigo": "A570",
+      "nome": "OLIVEIRA",
+      "id": 3145604,
+      "estado": "MG",
+      "lat": "-20,715000",
+      "lon": "-44,864444"
+    },
+    {
+      "codigo": "A366",
+      "nome": "OURICURI",
+      "id": 2609907,
+      "estado": "PE",
+      "lat": "-7,885833",
+      "lon": "-40,102778"
+    },
+    {
+      "codigo": "A513",
+      "nome": "OURO BRANCO",
+      "id": 3145901,
+      "estado": "MG",
+      "lat": "-20,556667",
+      "lon": "-43,756111"
+    },
+    {
+      "codigo": "A210",
+      "nome": "PACAJA",
+      "id": 1505486,
+      "estado": "PA",
+      "lat": "-3,843611",
+      "lon": "-50,638056"
+    },
+    {
+      "codigo": "A357",
+      "nome": "PALMARES",
+      "id": 2610004,
+      "estado": "PE",
+      "lat": "-8,666667",
+      "lon": "-35,568056"
+    },
+    {
+      "codigo": "B836",
+      "nome": "PALMARES DO SUL",
+      "id": 4313656,
+      "estado": "RS",
+      "lat": "-30,249167",
+      "lon": "-50,509167"
+    },
+    {
+      "codigo": "A009",
+      "nome": "PALMAS",
+      "id": 1721000,
+      "estado": "TO",
+      "lat": "-10,147778",
+      "lon": "-48,314444"
+    },
+    {
+      "codigo": "A856",
+      "nome": "PALMEIRA DAS MISSOES",
+      "id": 4313706,
+      "estado": "RS",
+      "lat": "-27,920278",
+      "lon": "-53,318056"
+    },
+    {
+      "codigo": "A323",
+      "nome": "PAO DE ACUCAR",
+      "id": 2706406,
+      "estado": "AL",
+      "lat": "-9,749167",
+      "lon": "-37,430833"
+    },
+    {
+      "codigo": "A571",
+      "nome": "PARACATU",
+      "id": 3147006,
+      "estado": "MG",
+      "lat": "-17,244444",
+      "lon": "-46,881667"
+    },
+    {
+      "codigo": "A212",
+      "nome": "PARAGOMINAS",
+      "id": 1505502,
+      "estado": "PA",
+      "lat": "-2,900556",
+      "lon": "-47,495000"
+    },
+    {
+      "codigo": "A010",
+      "nome": "PARANA",
+      "id": 1716208,
+      "estado": "TO",
+      "lat": "-12,615000",
+      "lon": "-47,871944"
+    },
+    {
+      "codigo": "A710",
+      "nome": "PARANAIBA",
+      "id": 5006309,
+      "estado": "MS",
+      "lat": "-19,695556",
+      "lon": "-51,181667"
+    },
+    {
+      "codigo": "A047",
+      "nome": "PARANOA (COOPA-DF)",
+      "id": 5300108,
+      "estado": "DF",
+      "lat": "-16,012222",
+      "lon": "-47,557500"
+    },
+    {
+      "codigo": "A619",
+      "nome": "PARATY",
+      "id": 3303807,
+      "estado": "RJ",
+      "lat": "-23,223611",
+      "lon": "-44,726944"
+    },
+    {
+      "codigo": "A027",
+      "nome": "PARAUNA",
+      "id": 5216403,
+      "estado": "GO",
+      "lat": "-16,962500",
+      "lon": "-50,425556"
+    },
+    {
+      "codigo": "A123",
+      "nome": "PARINTINS",
+      "id": 1303403,
+      "estado": "AM",
+      "lat": "-2,639167",
+      "lon": "-56,756111"
+    },
+    {
+      "codigo": "B810",
+      "nome": "PARQUE ELDORADO",
+      "id": 4301107,
+      "estado": "RS",
+      "lat": "-30,096667",
+      "lon": "-51,673889"
+    },
+    {
+      "codigo": "A839",
+      "nome": "PASSO FUNDO",
+      "id": 4314100,
+      "estado": "RS",
+      "lat": "-28,226667",
+      "lon": "-52,403611"
+    },
+    {
+      "codigo": "A516",
+      "nome": "PASSOS",
+      "id": 3147907,
+      "estado": "MG",
+      "lat": "-20,745278",
+      "lon": "-46,633889"
+    },
+    {
+      "codigo": "A321",
+      "nome": "PATOS",
+      "id": 2510808,
+      "estado": "PB",
+      "lat": "-7,079722",
+      "lon": "-37,272778"
+    },
+    {
+      "codigo": "A523",
+      "nome": "PATROCINIO",
+      "id": 3148103,
+      "estado": "MG",
+      "lat": "-18,996667",
+      "lon": "-46,985833"
+    },
+    {
+      "codigo": "A637",
+      "nome": "PATY DO ALFERES - AVELAR",
+      "id": 3303856,
+      "estado": "RJ",
+      "lat": "-22,347222",
+      "lon": "-43,417778"
+    },
+    {
+      "codigo": "A330",
+      "nome": "PAULISTANA",
+      "id": 2207801,
+      "estado": "PI",
+      "lat": "-8,132222",
+      "lon": "-41,143056"
+    },
+    {
+      "codigo": "A020",
+      "nome": "PEDRO AFONSO",
+      "id": 1716505,
+      "estado": "TO",
+      "lat": "-8,968611",
+      "lon": "-48,177222"
+    },
+    {
+      "codigo": "A018",
+      "nome": "PEIXE",
+      "id": 1716604,
+      "estado": "TO",
+      "lat": "-12,015278",
+      "lon": "-48,544444"
+    },
+    {
+      "codigo": "A610",
+      "nome": "PICO DO COUTO",
+      "id": 3303906,
+      "estado": "RJ",
+      "lat": "-22,464722",
+      "lon": "-43,291389"
+    },
+    {
+      "codigo": "A343",
+      "nome": "PICOS",
+      "id": 2208007,
+      "estado": "PI",
+      "lat": "-7,071111",
+      "lon": "-41,404167"
+    },
+    {
+      "codigo": "B823",
+      "nome": "PINHEIRO MACHADO",
+      "id": 4314506,
+      "estado": "RS",
+      "lat": "-31,574722",
+      "lon": "-53,388333"
+    },
+    {
+      "codigo": "A726",
+      "nome": "PIRACICABA",
+      "id": 3538709,
+      "estado": "SP",
+      "lat": "-22,703056",
+      "lon": "-47,623333"
+    },
+    {
+      "codigo": "A371",
+      "nome": "PIRANHAS",
+      "id": 5217203,
+      "estado": "AL",
+      "lat": "-9,622222",
+      "lon": "-37,767222"
+    },
+    {
+      "codigo": "A545",
+      "nome": "PIRAPORA",
+      "id": 3151206,
+      "estado": "MG",
+      "lat": "-17,258064",
+      "lon": "-44,835556"
+    },
+    {
+      "codigo": "A033",
+      "nome": "PIRES DO RIO",
+      "id": 5217401,
+      "estado": "GO",
+      "lat": "-17,304167",
+      "lon": "-48,284167"
+    },
+    {
+      "codigo": "A211",
+      "nome": "PLACAS",
+      "id": 1505650,
+      "estado": "PA",
+      "lat": "-3,864167",
+      "lon": "-54,216389"
+    },
+    {
+      "codigo": "A560",
+      "nome": "POMPEU",
+      "id": 3152006,
+      "estado": "MG",
+      "lat": "-19,232500",
+      "lon": "-44,964167"
+    },
+    {
+      "codigo": "A703",
+      "nome": "PONTA PORA",
+      "id": 5006606,
+      "estado": "MS",
+      "lat": "-22,552500",
+      "lon": "-55,716389"
+    },
+    {
+      "codigo": "A937",
+      "nome": "PONTES E LACERDA",
+      "id": 5106752,
+      "estado": "MT",
+      "lat": "-15,325278",
+      "lon": "-59,233611"
+    },
+    {
+      "codigo": "A005",
+      "nome": "PORANGATU",
+      "id": 5218003,
+      "estado": "GO",
+      "lat": "-13,309444",
+      "lon": "-49,117500"
+    },
+    {
+      "codigo": "B825",
+      "nome": "PORTO ALEGRE - BELEM NOVO",
+      "id": 4301909,
+      "estado": "RS",
+      "lat": "-30,186111",
+      "lon": "-51,178333"
+    },
+    {
+      "codigo": "A801",
+      "nome": "PORTO ALEGRE - JARDIM BOTANICO",
+      "id": 4314902,
+      "estado": "RS",
+      "lat": "-30,053611",
+      "lon": "-51,174722"
+    },
+    {
+      "codigo": "A245",
+      "nome": "PORTO DE MOZ",
+      "id": 1505908,
+      "estado": "PA",
+      "lat": "-1,821944",
+      "lon": "-52,111667"
+    },
+    {
+      "codigo": "A935",
+      "nome": "PORTO ESTRELA",
+      "id": 5106851,
+      "estado": "MT",
+      "lat": "-15,324722",
+      "lon": "-57,225833"
+    },
+    {
+      "codigo": "A244",
+      "nome": "PORTO GRANDE",
+      "id": 1600535,
+      "estado": "AP",
+      "lat": "0,694167",
+      "lon": "-51,403889"
+    },
+    {
+      "codigo": "A723",
+      "nome": "PORTO MURTINHO",
+      "id": 5006903,
+      "estado": "MS",
+      "lat": "-21,705833",
+      "lon": "-57,886667"
+    },
+    {
+      "codigo": "A017",
+      "nome": "POSSE",
+      "id": 5218300,
+      "estado": "GO",
+      "lat": "-14,089167",
+      "lon": "-46,366389"
+    },
+    {
+      "codigo": "A747",
+      "nome": "PRADOPOLIS",
+      "id": 3540903,
+      "estado": "SP",
+      "lat": "-21,338333",
+      "lon": "-48,113889"
+    },
+    {
+      "codigo": "A622",
+      "nome": "PRESIDENTE KENNEDY",
+      "id": 3204302,
+      "estado": "ES",
+      "lat": "-21,100833",
+      "lon": "-41,039444"
+    },
+    {
+      "codigo": "A707",
+      "nome": "PRESIDENTE PRUDENTE",
+      "id": 3541406,
+      "estado": "SP",
+      "lat": "-22,120000",
+      "lon": "-51,408611"
+    },
+    {
+      "codigo": "A923",
+      "nome": "PRIMAVERA DO LESTE",
+      "id": 5107040,
+      "estado": "MT",
+      "lat": "-15,580000",
+      "lon": "-54,381111"
+    },
+    {
+      "codigo": "A831",
+      "nome": "QUARAI",
+      "id": 4315305,
+      "estado": "RS",
+      "lat": "-30,368611",
+      "lon": "-56,437222"
+    },
+    {
+      "codigo": "A916",
+      "nome": "QUERENCIA",
+      "id": 5107065,
+      "estado": "MT",
+      "lat": "-12,603056",
+      "lon": "-52,162500"
+    },
+    {
+      "codigo": "A718",
+      "nome": "RANCHARIA",
+      "id": 3542206,
+      "estado": "SP",
+      "lat": "-22,372778",
+      "lon": "-50,974722"
+    },
+    {
+      "codigo": "A870",
+      "nome": "RANCHO QUEIMADO",
+      "id": 4214300,
+      "estado": "SC",
+      "lat": "-27,678611",
+      "lon": "-49,041944"
+    },
+    {
+      "codigo": "A254",
+      "nome": "REDENCAO",
+      "id": 1506138,
+      "estado": "PA",
+      "lat": "-8,043333",
+      "lon": "-50,006944"
+    },
+    {
+      "codigo": "A766",
+      "nome": "REGISTRO",
+      "id": 3542602,
+      "estado": "SP",
+      "lat": "-24,533056",
+      "lon": "-47,864167"
+    },
+    {
+      "codigo": "B860",
+      "nome": "RELVADO",
+      "id": 4315453,
+      "estado": "RS",
+      "lat": "-29,104444",
+      "lon": "-52,052778"
+    },
+    {
+      "codigo": "A609",
+      "nome": "RESENDE",
+      "id": 3304204,
+      "estado": "RJ",
+      "lat": "-22,451389",
+      "lon": "-44,445000"
+    },
+    {
+      "codigo": "A104",
+      "nome": "RIO BRANCO",
+      "id": 1200401,
+      "estado": "AC",
+      "lat": "-9,959167",
+      "lon": "-67,868889"
+    },
+    {
+      "codigo": "A743",
+      "nome": "RIO BRILHANTE",
+      "id": 5007208,
+      "estado": "MS",
+      "lat": "-21,775000",
+      "lon": "-54,528056"
+    },
+    {
+      "codigo": "A626",
+      "nome": "RIO CLARO",
+      "id": 3304505,
+      "estado": "RJ",
+      "lat": "-22,653579",
+      "lon": "-44,040916"
+    },
+    {
+      "codigo": "A636",
+      "nome": "RIO DE JANEIRO - JACAREPAGUA",
+      "id": 3304557,
+      "estado": "RJ",
+      "lat": "-22,940000",
+      "lon": "-43,402778"
+    },
+    {
+      "codigo": "A621",
+      "nome": "RIO DE JANEIRO - VILA MILITAR",
+      "id": 3305109,
+      "estado": "RJ",
+      "lat": "-22,861389",
+      "lon": "-43,411389"
+    },
+    {
+      "codigo": "A602",
+      "nome": "RIO DE JANEIRO-MARAMBAIA",
+      "id": 3303500,
+      "estado": "RJ",
+      "lat": "-23,050278",
+      "lon": "-43,595556"
+    },
+    {
+      "codigo": "A861",
+      "nome": "RIO DO CAMPO",
+      "id": 4214508,
+      "estado": "SC",
+      "lat": "-26,937500",
+      "lon": "-50,145556"
+    },
+    {
+      "codigo": "A802",
+      "nome": "RIO GRANDE",
+      "id": 4315602,
+      "estado": "RS",
+      "lat": "-32,078889",
+      "lon": "-52,167778"
+    },
+    {
+      "codigo": "A862",
+      "nome": "RIO NEGRINHO",
+      "id": 4215000,
+      "estado": "SC",
+      "lat": "-26,248611",
+      "lon": "-49,574167"
+    },
+    {
+      "codigo": "A813",
+      "nome": "RIO PARDO",
+      "id": 4315701,
+      "estado": "RS",
+      "lat": "-29,872222",
+      "lon": "-52,381944"
+    },
+    {
+      "codigo": "A551",
+      "nome": "RIO PARDO DE MINAS",
+      "id": 3155603,
+      "estado": "MG",
+      "lat": "-15,723056",
+      "lon": "-42,435833"
+    },
+    {
+      "codigo": "A050",
+      "nome": "RIO SONO",
+      "id": 1718758,
+      "estado": "TO",
+      "lat": "-9,793363",
+      "lon": "-47,132732"
+    },
+    {
+      "codigo": "A025",
+      "nome": "RIO VERDE",
+      "id": 5218805,
+      "estado": "GO",
+      "lat": "-17,785278",
+      "lon": "-50,965000"
+    },
+    {
+      "codigo": "B819",
+      "nome": "ROLANTE",
+      "id": 4316006,
+      "estado": "RS",
+      "lat": "-29,655833",
+      "lon": "-50,618056"
+    },
+    {
+      "codigo": "A907",
+      "nome": "RONDONOPOLIS",
+      "id": 5107602,
+      "estado": "MT",
+      "lat": "-16,462500",
+      "lon": "-54,580278"
+    },
+    {
+      "codigo": "A944",
+      "nome": "ROSARIO OESTE",
+      "id": 5107701,
+      "estado": "MT",
+      "lat": "-14,828889",
+      "lon": "-56,441944"
+    },
+    {
+      "codigo": "B855",
+      "nome": "Rosario do Sul",
+      "id": 4316402,
+      "estado": "RS",
+      "lat": "-30,259722",
+      "lon": "-54,902222"
+    },
+    {
+      "codigo": "A903",
+      "nome": "S.J. DO RIO CLARO",
+      "id": 5107305,
+      "estado": "MT",
+      "lat": "-13,453889",
+      "lon": "-56,677222"
+    },
+    {
+      "codigo": "A525",
+      "nome": "SACRAMENTO",
+      "id": 3156908,
+      "estado": "MG",
+      "lat": "-19,875278",
+      "lon": "-47,434167"
+    },
+    {
+      "codigo": "A370",
+      "nome": "SALGUEIRO",
+      "id": 2612208,
+      "estado": "PE",
+      "lat": "-8,058056",
+      "lon": "-39,096111"
+    },
+    {
+      "codigo": "A552",
+      "nome": "SALINAS",
+      "id": 3157005,
+      "estado": "MG",
+      "lat": "-16,160278",
+      "lon": "-42,310278"
+    },
+    {
+      "codigo": "A215",
+      "nome": "SALINOPOLIS",
+      "id": 1506203,
+      "estado": "PA",
+      "lat": "-0,618889",
+      "lon": "-47,356667"
+    },
+    {
+      "codigo": "A936",
+      "nome": "SALTO DO CEU",
+      "id": 5107750,
+      "estado": "MT",
+      "lat": "-15,124722",
+      "lon": "-58,127222"
+    },
+    {
+      "codigo": "B838",
+      "nome": "SALTO DO JACUI",
+      "id": 4316451,
+      "estado": "RS",
+      "lat": "-29,096389",
+      "lon": "-53,212500"
+    },
+    {
+      "codigo": "A401",
+      "nome": "SALVADOR",
+      "id": 2927408,
+      "estado": "BA",
+      "lat": "-13,005556",
+      "lon": "-38,505833"
+    },
+    {
+      "codigo": "A456",
+      "nome": "SALVADOR (RADIO FAROL)",
+      "id": 2930709,
+      "estado": "BA",
+      "lat": "-12,808333",
+      "lon": "-38,495833"
+    },
+    {
+      "codigo": "A048",
+      "nome": "SANTA FE DO ARAGUAIA",
+      "id": 1718865,
+      "estado": "TO",
+      "lat": "-7,124167",
+      "lon": "-48,781389"
+    },
+    {
+      "codigo": "A803",
+      "nome": "SANTA MARIA",
+      "id": 4316907,
+      "estado": "RS",
+      "lat": "-29,725000",
+      "lon": "-53,720556"
+    },
+    {
+      "codigo": "A256",
+      "nome": "SANTA MARIA DAS BARREIRAS",
+      "id": 1506583,
+      "estado": "PA",
+      "lat": "-8,729722",
+      "lon": "-49,856389"
+    },
+    {
+      "codigo": "B816",
+      "nome": "SANTA MARIA DO HERVAL",
+      "id": 4316956,
+      "estado": "RS",
+      "lat": "-29,479167",
+      "lon": "-51,013333"
+    },
+    {
+      "codigo": "A630",
+      "nome": "SANTA MARIA MADALENA",
+      "id": 3304607,
+      "estado": "RJ",
+      "lat": "-21,950556",
+      "lon": "-42,010278"
+    },
+    {
+      "codigo": "A052",
+      "nome": "SANTA ROSA DO TOCANTINS",
+      "id": 1718907,
+      "estado": "TO",
+      "lat": "-11,428889",
+      "lon": "-48,185000"
+    },
+    {
+      "codigo": "A613",
+      "nome": "SANTA TERESA",
+      "id": 3204609,
+      "estado": "ES",
+      "lat": "-19,988333",
+      "lon": "-40,579444"
+    },
+    {
+      "codigo": "B830",
+      "nome": "SANTA VITORIA DO PALMAR (CENTRO)",
+      "id":  4317301,
+      "estado": "RS",
+      "lat": "-33,531667",
+      "lon": "-53,350278"
+    },
+    {
+      "codigo": "B829",
+      "nome": "SANTA VITORIA DO PALMAR (RESERVA DO TAIM)",
+      "id": 4315602,
+      "estado": "RS",
+      "lat": "-32,835833",
+      "lon": "-52,643611"
+    },
+    {
+      "codigo": "A899",
+      "nome": "SANTA VITORIA DO PALMAR - BARRA DO CHUI",
+      "id": 4305439,
+      "estado": "RS",
+      "lat": "-33,742222",
+      "lon": "-53,372222"
+    },
+    {
+      "codigo": "B821",
+      "nome": "SANTANA DA BOA VISTA",
+      "id": 4317004,
+      "estado": "RS",
+      "lat": "-30,858611",
+      "lon": "-53,155556"
+    },
+    {
+      "codigo": "A250",
+      "nome": "SANTAREM",
+      "id": 1506807,
+      "estado": "PA",
+      "lat": "-2,502500",
+      "lon": "-54,720278"
+    },
+    {
+      "codigo": "A833",
+      "nome": "SANTIAGO",
+      "id": 4317400,
+      "estado": "RS",
+      "lat": "-29,191667",
+      "lon": "-54,885556"
+    },
+    {
+      "codigo": "B844",
+      "nome": "SANTO ANGELO",
+      "id": 4317509,
+      "estado": "RS",
+      "lat": "-28,278056",
+      "lon": "-54,273889"
+    },
+    {
+      "codigo": "B839",
+      "nome": "SANTO ANTONIO DA PATRULHA",
+      "id": 4317608,
+      "estado": "RS",
+      "lat": "-29,816111",
+      "lon": "-50,533333"
+    },
+    {
+      "codigo": "A931",
+      "nome": "SANTO ANTONIO DO LESTE",
+      "id": 5107792,
+      "estado": "MT",
+      "lat": "-14,925000",
+      "lon": "-53,884444"
+    },
+    {
+      "codigo": "A805",
+      "nome": "SANTO AUGUSTO",
+      "id": 4317806,
+      "estado": "RS",
+      "lat": "-27,854444",
+      "lon": "-53,791111"
+    },
+    {
+      "codigo": "A830",
+      "nome": "SAO BORJA",
+      "id": 4318002,
+      "estado": "RS",
+      "lat": "-28,650000",
+      "lon": "-56,016389"
+    },
+    {
+      "codigo": "A711",
+      "nome": "SAO CARLOS",
+      "id": 3548906,
+      "estado": "SP",
+      "lat": "-21,980278",
+      "lon": "-47,883889"
+    },
+    {
+      "codigo": "A216",
+      "nome": "SAO FELIX DO XINGU",
+      "id": 1507300,
+      "estado": "PA",
+      "lat": "-6,639722",
+      "lon": "-51,956944"
+    },
+    {
+      "codigo": "B820",
+      "nome": "SAO FRANCISCO DE PAULA",
+      "id": 4318200,
+      "estado": "RS",
+      "lat": "-29,442222",
+      "lon": "-50,560278"
+    },
+    {
+      "codigo": "A732",
+      "nome": "SAO GABRIEL DO OESTE",
+      "id": 5007695,
+      "estado": "MS",
+      "lat": "-19,420278",
+      "lon": "-54,553056"
+    },
+    {
+      "codigo": "A333",
+      "nome": "SAO GONCALO",
+      "id": 3304904,
+      "estado": "PB",
+      "lat": "-6,835833",
+      "lon": "-38,311667"
+    },
+    {
+      "codigo": "A514",
+      "nome": "SAO JOAO DEL REI",
+      "id": 3162500,
+      "estado": "MG",
+      "lat": "-21,106389",
+      "lon": "-44,250833"
+    },
+    {
+      "codigo": "A331",
+      "nome": "SAO JOAO DO PIAUI",
+      "id": 2210003,
+      "estado": "PI",
+      "lat": "-8,364444",
+      "lon": "-42,252500"
+    },
+    {
+      "codigo": "B861",
+      "nome": "SAO JOSE DO OURO",
+      "id": 4318606,
+      "estado": "RS",
+      "lat": "-27,772500",
+      "lon": "-51,586667"
+    },
+    {
+      "codigo": "B831",
+      "nome": "SAO LOURENCO DO SUL",
+      "id": 4318804,
+      "estado": "RS",
+      "lat": "-31,340556",
+      "lon": "-52,010833"
+    },
+    {
+      "codigo": "A203",
+      "nome": "SAO LUIS",
+      "id": 2111300,
+      "estado": "MA",
+      "lat": "-2,526667",
+      "lon": "-44,213611"
+    },
+    {
+      "codigo": "A740",
+      "nome": "SAO LUIZ DO PARAITINGA",
+      "id": 3550001,
+      "estado": "SP",
+      "lat": "-23,228333",
+      "lon": "-45,416944"
+    },
+    {
+      "codigo": "A852",
+      "nome": "SAO LUIZ GONZAGA",
+      "id": 4318903,
+      "estado": "RS",
+      "lat": "-28,417222",
+      "lon": "-54,962500"
+    },
+    {
+      "codigo": "A616",
+      "nome": "SAO MATEUS",
+      "id": 3204906,
+      "estado": "ES",
+      "lat": "-18,676111",
+      "lon": "-39,864167"
+    },
+    {
+      "codigo": "A715",
+      "nome": "SAO MIGUEL ARCANJO",
+      "id": 3550209,
+      "estado": "SP",
+      "lat": "-23,890833",
+      "lon": "-47,999167"
+    },
+    {
+      "codigo": "A031",
+      "nome": "SAO MIGUEL DO ARAGUAIA",
+      "id": 5220207,
+      "estado": "GO",
+      "lat": "-12,820556",
+      "lon": "-50,335833"
+    },
+    {
+      "codigo": "A771",
+      "nome": "SAO PAULO - INTERLAGOS",
+      "id": 3548708,
+      "estado": "SP",
+      "lat": "-23,724444",
+      "lon": "-46,677500"
+    },
+    {
+      "codigo": "A701",
+      "nome": "SAO PAULO - MIRANTE",
+      "id": 3550308,
+      "estado": "SP",
+      "lat": "-23,496289",
+      "lon": "-46,620067"
+    },
+    {
+      "codigo": "A770",
+      "nome": "SAO SIMAO",
+      "id": 3550902,
+      "estado": "SP",
+      "lat": "-21,461111",
+      "lon": "-47,579444"
+    },
+    {
+      "codigo": "A011",
+      "nome": "SAO SIMAO",
+      "id": 5220405,
+      "estado": "GO",
+      "lat": "-18,969167",
+      "lon": "-50,633333"
+    },
+    {
+      "codigo": "A911",
+      "nome": "SAPEZAL",
+      "id": 5107875,
+      "estado": "MT",
+      "lat": "-13,303889",
+      "lon": "-58,763333"
+    },
+    {
+      "codigo": "B809",
+      "nome": "SAPUCAIA DO SUL",
+      "id": 4320008,
+      "estado": "RS",
+      "lat": "-29,813889",
+      "lon": "-51,156667"
+    },
+    {
+      "codigo": "A667",
+      "nome": "SAQUAREMA - SAMPAIO CORREIA",
+      "id": 3305505,
+      "estado": "RJ",
+      "lat": "-22,871111",
+      "lon": "-42,608889"
+    },
+    {
+      "codigo": "A428",
+      "nome": "SENHOR DO BONFIM",
+      "id": 2930105,
+      "estado": "BA",
+      "lat": "-10,443056",
+      "lon": "-40,148333"
+    },
+    {
+      "codigo": "A894",
+      "nome": "SERAFINA CORREA",
+      "id": 4320404,
+      "estado": "RS",
+      "lat": "-28,704722",
+      "lon": "-51,870833"
+    },
+    {
+      "codigo": "A601",
+      "nome": "SEROPEDICA-ECOLOGIA AGRICOLA",
+      "id": 3305554,
+      "estado": "RJ",
+      "lat": "-22,757778",
+      "lon": "-43,684722"
+    },
+    {
+      "codigo": "A522",
+      "nome": "SERRA DOS AIMORES",
+      "id": 3166709,
+      "estado": "MG",
+      "lat": "-17,798889",
+      "lon": "-40,250000"
+    },
+    {
+      "codigo": "B811",
+      "nome": "SERTAO SANTANA",
+      "id": 4320552,
+      "estado": "RS",
+      "lat": "-30,494167",
+      "lon": "-51,663333"
+    },
+    {
+      "codigo": "A569",
+      "nome": "SETE LAGOAS",
+      "id": 3167202,
+      "estado": "MG",
+      "lat": "-19,455278",
+      "lon": "-44,173333"
+    },
+    {
+      "codigo": "A751",
+      "nome": "SETE QUEDAS",
+      "id": 5007703,
+      "estado": "MS",
+      "lat": "-23,966944",
+      "lon": "-55,024167"
+    },
+    {
+      "codigo": "A754",
+      "nome": "SIDROLANDIA",
+      "id": 5007901,
+      "estado": "MS",
+      "lat": "-20,981667",
+      "lon": "-54,971944"
+    },
+    {
+      "codigo": "A659",
+      "nome": "SILVA JARDIM",
+      "id": 3305604,
+      "estado": "RJ",
+      "lat": "-22,645833",
+      "lon": "-42,415556"
+    },
+    {
+      "codigo": "B840",
+      "nome": "SOBRADINHO",
+      "id": 4320701,
+      "estado": "RS",
+      "lat": "-29,398333",
+      "lon": "-53,013611"
+    },
+    {
+      "codigo": "A837",
+      "nome": "SOLEDADE",
+      "id": 4320800,
+      "estado": "RS",
+      "lat": "-28,859167",
+      "lon": "-52,542500"
+    },
+    {
+      "codigo": "A761",
+      "nome": "SONORA",
+      "id": 5007935,
+      "estado": "MS",
+      "lat": "-17,635278",
+      "lon": "-54,760556"
+    },
+    {
+      "codigo": "A904",
+      "nome": "SORRISO",
+      "id": 5107925,
+      "estado": "MT",
+      "lat": "-12,555000",
+      "lon": "-55,722778"
+    },
+    {
+      "codigo": "A328",
+      "nome": "SURUBIM",
+      "id": 2614501,
+      "estado": "PE",
+      "lat": "-7,842500",
+      "lon": "-35,790278"
+    },
+    {
+      "codigo": "A952",
+      "nome": "TABAPORA",
+      "id": 5107941,
+      "estado": "MT",
+      "lat": "-11,050556",
+      "lon": "-56,835833"
+    },
+    {
+      "codigo": "A902",
+      "nome": "TANGARA DA SERRA",
+      "id": 5107958,
+      "estado": "MT",
+      "lat": "-14,650000",
+      "lon": "-57,431667"
+    },
+    {
+      "codigo": "B815",
+      "nome": "TAQUARI",
+      "id": 4321303,
+      "estado": "RS",
+      "lat": "-29,791667",
+      "lon": "-51,827500"
+    },
+    {
+      "codigo": "A728",
+      "nome": "TAUBATE",
+      "id": 3554102,
+      "estado": "SP",
+      "lat": "-23,041667",
+      "lon": "-45,520833"
+    },
+    {
+      "codigo": "A527",
+      "nome": "TEOFILO OTONI",
+      "id": 3168606,
+      "estado": "MG",
+      "lat": "-17,892778",
+      "lon": "-41,515556"
+    },
+    {
+      "codigo": "A312",
+      "nome": "TERESINA",
+      "id": 2211001,
+      "estado": "PI",
+      "lat": "-5,034722",
+      "lon": "-42,801389"
+    },
+    {
+      "codigo": "A618",
+      "nome": "TERESOPOLIS-PARQUE NACIONAL",
+      "id": 3305802,
+      "estado": "RJ",
+      "lat": "-22,448611",
+      "lon": "-42,986944"
+    },
+    {
+      "codigo": "A882",
+      "nome": "TEUTONIA",
+      "id": 4321451,
+      "estado": "RS",
+      "lat": "-29,449167",
+      "lon": "-51,823333"
+    },
+    {
+      "codigo": "A511",
+      "nome": "TIMOTEO",
+      "id": 3168705,
+      "estado": "MG",
+      "lat": "-19,573889",
+      "lon": "-42,622500"
+    },
+    {
+      "codigo": "A213",
+      "nome": "TOME ACU",
+      "id": 1508001,
+      "estado": "PA",
+      "lat": "-2,592500",
+      "lon": "-48,360556"
+    },
+    {
+      "codigo": "B841",
+      "nome": "TORRES-AEROPORTO",
+      "id": 4321501,
+      "estado": "RS",
+      "lat": "-29,413611",
+      "lon": "-49,803611"
+    },
+    {
+      "codigo": "A834",
+      "nome": "TRAMANDAI",
+      "id": 4321600,
+      "estado": "RS",
+      "lat": "-30,010278",
+      "lon": "-50,135833"
+    },
+    {
+      "codigo": "A704",
+      "nome": "TRES LAGOAS",
+      "id": 5008305,
+      "estado": "MS",
+      "lat": "-20,795000",
+      "lon": "-51,713333"
+    },
+    {
+      "codigo": "A528",
+      "nome": "TRES MARIAS",
+      "id": 3169356,
+      "estado": "MG",
+      "lat": "-18,200833",
+      "lon": "-45,459722"
+    },
+    {
+      "codigo": "A625",
+      "nome": "TRES RIOS",
+      "id": 3306008,
+      "estado": "RJ",
+      "lat": "-22,098333",
+      "lon": "-43,208333"
+    },
+    {
+      "codigo": "A234",
+      "nome": "TUCUMA",
+      "id": 1508084,
+      "estado": "PA",
+      "lat": "-6,743333",
+      "lon": "-51,141944"
+    },
+    {
+      "codigo": "A229",
+      "nome": "TUCURUI",
+      "id": 1508100,
+      "estado": "PA",
+      "lat": "-3,822778",
+      "lon": "-49,675000"
+    },
+    {
+      "codigo": "A768",
+      "nome": "TUPA",
+      "id": 3555000,
+      "estado": "SP",
+      "lat": "-21,927222",
+      "lon": "-50,490278"
+    },
+    {
+      "codigo": "A886",
+      "nome": "TUPANCIRETA",
+      "id": 4322202,
+      "estado": "RS",
+      "lat": "-29,089444",
+      "lon": "-53,826667"
+    },
+    {
+      "codigo": "A219",
+      "nome": "TURIACU",
+      "id": 2112407,
+      "estado": "MA",
+      "lat": "-1,661111",
+      "lon": "-45,372500"
+    },
+    {
+      "codigo": "A568",
+      "nome": "UBERABA",
+      "id": 3170107,
+      "estado": "MG",
+      "lat": "-19,710000",
+      "lon": "-47,961944"
+    },
+    {
+      "codigo": "A507",
+      "nome": "UBERLANDIA",
+      "id": 3170206,
+      "estado": "MG",
+      "lat": "-18,916944",
+      "lon": "-48,255556"
+    },
+    {
+      "codigo": "A542",
+      "nome": "UNAI",
+      "id": 3170404,
+      "estado": "MG",
+      "lat": "-16,554167",
+      "lon": "-46,881944"
+    },
+    {
+      "codigo": "A346",
+      "nome": "URUCUI",
+      "id": 2211209,
+      "estado": "PI",
+      "lat": "-7,441389",
+      "lon": "-44,345000"
+    },
+    {
+      "codigo": "A809",
+      "nome": "URUGUAIANA",
+      "id": 4322400,
+      "estado": "RS",
+      "lat": "-29,840000",
+      "lon": "-57,081944"
+    },
+    {
+      "codigo": "A880",
+      "nome": "VACARIA",
+      "id": 4322509,
+      "estado": "RS",
+      "lat": "-28,513611",
+      "lon": "-50,882778"
+    },
+    {
+      "codigo": "A611",
+      "nome": "VALENCA",
+      "id": 3306107,
+      "estado": "RJ",
+      "lat": "-22,358056",
+      "lon": "-43,695556"
+    },
+    {
+      "codigo": "A363",
+      "nome": "VALENCA DO PIAUI",
+      "id": 2211308,
+      "estado": "PI",
+      "lat": "-6,423611",
+      "lon": "-41,748889"
+    },
+    {
+      "codigo": "A734",
+      "nome": "VALPARAISO",
+      "id": 3556305,
+      "estado": "SP",
+      "lat": "-21,319167",
+      "lon": "-50,930278"
+    },
+    {
+      "codigo": "A515",
+      "nome": "VARGINHA",
+      "id": 3170701,
+      "estado": "MG",
+      "lat": "-21,566389",
+      "lon": "-45,404167"
+    },
+    {
+      "codigo": "A633",
+      "nome": "VENDA NOVA DO IMIGRANTE",
+      "id": 3205069,
+      "estado": "ES",
+      "lat": "-20,385556",
+      "lon": "-41,190000"
+    },
+    {
+      "codigo": "A872",
+      "nome": "VENTANIA",
+      "id": 4128534,
+      "estado": "PR",
+      "lat": "-24,280278",
+      "lon": "-50,210278"
+    },
+    {
+      "codigo": "A510",
+      "nome": "VICOSA",
+      "id": 3171303,
+      "estado": "MG",
+      "lat": "-20,762500",
+      "lon": "-42,863889"
+    },
+    {
+      "codigo": "A634",
+      "nome": "VILA VELHA",
+      "id": 3205200,
+      "estado": "ES",
+      "lat": "-20,466944",
+      "lon": "-40,403889"
+    },
+    {
+      "codigo": "A938",
+      "nome": "VILHENA",
+      "id": 1100304,
+      "estado": "RO",
+      "lat": "-12,735000",
+      "lon": "-60,157778"
+    },
+    {
+      "codigo": "A612",
+      "nome": "VITORIA",
+      "id": 3205309,
+      "estado": "ES",
+      "lat": "-20,270833",
+      "lon": "-40,305833"
+    },
+    {
+      "codigo": "A414",
+      "nome": "VITORIA DA CONQUISTA",
+      "id": 2933307,
+      "estado": "BA",
+      "lat": "-14,886389",
+      "lon": "-40,801389"
+    },
+    {
+      "codigo": "A255",
+      "nome": "ZE DOCA",
+      "id": 2114007,
+      "estado": "MA",
+      "lat": "-3,269167",
+      "lon": "-45,651111"
+    }
+  ]
+}
