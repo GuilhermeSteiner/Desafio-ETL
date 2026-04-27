@@ -72,7 +72,7 @@ Para executar o programa, será necessário primeiro ter o interpretador Python 
 
 (CASO NÃO TENHA O INTEPRETADOR PYTHON EM SUA MÁQUINA, você pode instalar aqui https://www.python.org/downloads)
 
-Após o interpretador Python estiver na sua máquina, entre no diretório da pasta do programa usando o terminal, no caso ./desafio-etl-main/
+Após o interpretador Python estiver na sua máquina, entre no diretório da pasta do programa usando o terminal, no caso ./desafio-etl-master/
 
 Agora digite "pip install -r requirements.txt" para instalar os requisitos básicos do programa, no caso, será a biblioteca json, uvicorn e requests.
 
