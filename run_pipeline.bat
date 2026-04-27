@@ -1,7 +1,7 @@
 @echo off
 
 :: Entrando na pasta principal
-cd /d %~dp0\desafio-etl-main
+cd /d %~dp0\desafio-etl-master
 
 echo.
 echo Executando ETL...
